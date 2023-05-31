@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Pacifico&display=swap');
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+}
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Pacifico', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid grey;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+border-radius: 50%;
+margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+    color: rebeccapurple;
+}
